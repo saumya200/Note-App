@@ -1,0 +1,14 @@
+C:\Users\vc1\Downloads\.NET\NoteApp\bin\Debug\net8.0\NoteApp.exe
+C:\Users\vc1\Downloads\.NET\NoteApp\bin\Debug\net8.0\NoteApp.deps.json
+C:\Users\vc1\Downloads\.NET\NoteApp\bin\Debug\net8.0\NoteApp.runtimeconfig.json
+C:\Users\vc1\Downloads\.NET\NoteApp\bin\Debug\net8.0\NoteApp.dll
+C:\Users\vc1\Downloads\.NET\NoteApp\bin\Debug\net8.0\NoteApp.pdb
+C:\Users\vc1\Downloads\.NET\NoteApp\obj\Debug\net8.0\NoteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vc1\Downloads\.NET\NoteApp\obj\Debug\net8.0\NoteApp.AssemblyInfoInputs.cache
+C:\Users\vc1\Downloads\.NET\NoteApp\obj\Debug\net8.0\NoteApp.AssemblyInfo.cs
+C:\Users\vc1\Downloads\.NET\NoteApp\obj\Debug\net8.0\NoteApp.csproj.CoreCompileInputs.cache
+C:\Users\vc1\Downloads\.NET\NoteApp\obj\Debug\net8.0\NoteApp.dll
+C:\Users\vc1\Downloads\.NET\NoteApp\obj\Debug\net8.0\refint\NoteApp.dll
+C:\Users\vc1\Downloads\.NET\NoteApp\obj\Debug\net8.0\NoteApp.pdb
+C:\Users\vc1\Downloads\.NET\NoteApp\obj\Debug\net8.0\NoteApp.genruntimeconfig.cache
+C:\Users\vc1\Downloads\.NET\NoteApp\obj\Debug\net8.0\ref\NoteApp.dll
